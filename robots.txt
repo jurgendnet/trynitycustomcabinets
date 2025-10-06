@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trynitycustomcabinets.com/sitemap.xml
